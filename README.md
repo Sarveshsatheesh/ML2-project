@@ -43,5 +43,6 @@ Datasets used in this project
    ```
 
 ## UI Screenshots
-![2022-11-16 (3)](https://user-images.githubusercontent.com/67963861/202159907-8174b896-2044-48e6-b405-a4ee42a834ae.png)
-![2022-11-16 (2)](https://user-images.githubusercontent.com/67963861/202159850-1ffbb5ff-dd16-41a0-b754-1b54800e02a5.png)
+![2022-11-16 (2)](https://user-images.githubusercontent.com/67963861/202162058-70a52063-9834-4191-b22f-a1e2827cd4a9.png)
+![e195de1a-7a82-426b-9e44-7652e5989cbd](https://user-images.githubusercontent.com/67963861/202162095-b6f19536-8ce7-4a4f-9f66-17efa5876074.jpg)
+
